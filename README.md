@@ -8,6 +8,7 @@ Initialized empty git repository
 Database course has been created
 
 # Step 4
+Run node app.js | nodemon app.js
 http://localhost:8080/ <-> Main page where it's asked for Admin Panel or Instructor panel
 
 # Step 5:
